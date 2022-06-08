@@ -1,0 +1,7 @@
+.about-me{
+    max-width:600px;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    z-index: 9998;
+}
