@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tyler-ruff": {
+      "hosting": {
+        "fire": [
+          "tyler-ruff"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tyler-ruff"
+  }
+}
