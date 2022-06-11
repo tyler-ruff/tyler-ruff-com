@@ -14,7 +14,7 @@ export const environment = {
     useCdn: true,
   },
   web: {
-    url: 'https://tyler-ruff.com/',
+    url: 'https://www.tyler-ruff.com/',
   },
   production: true
 };
