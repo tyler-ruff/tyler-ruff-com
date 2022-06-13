@@ -48,6 +48,6 @@ export class SanityService {
     }
 
     private getApiVersion(): string {
-        return `v${new Date().toISOString().split('T')[0]}`
+        return `v${new Date().toISOString().split('T')[0]}`;
     }
 }

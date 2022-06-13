@@ -16,6 +16,14 @@ import { initializeApp,provideFirebaseApp } from '@angular/fire/app';
 import { provideFirestore,getFirestore } from '@angular/fire/firestore';
 
 import { HttpClientModule } from '@angular/common/http';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+import {MatPaginatorModule} from '@angular/material/paginator';
+import { SanityImagePipe } from './sanity-image.pipe';
+import { FormatDatePipe } from './format-date.pipe';
+import { PostComponent } from './post/post.component';
+import { SingleComponent } from './single/single.component';
+import { ToHTMLPipe } from './to-html.pipe';
 
 @NgModule({
   declarations: [
@@ -26,12 +34,18 @@ import { HttpClientModule } from '@angular/common/http';
     NavComponent,
     ProjectsComponent,
     BlogComponent,
-    AboutComponent
+    AboutComponent,
+    SanityImagePipe,
+    FormatDatePipe,
+    ToHTMLPipe,
+    PostComponent,
+    SingleComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    MatPaginatorModule,
     ServiceWorkerModule.register('ngsw-worker.js', {
       enabled: environment.production,
       // Register the ServiceWorker as soon as the application is stable
@@ -39,7 +53,8 @@ import { HttpClientModule } from '@angular/common/http';
       registrationStrategy: 'registerWhenStable:30000'
     }),
     provideFirebaseApp(() => initializeApp(environment.firebase)),
-    provideFirestore(() => getFirestore())
+    provideFirestore(() => getFirestore()),
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
