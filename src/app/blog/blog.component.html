@@ -1,27 +1,15 @@
-<div class="pt-20">
-    <h2 class="text-3xl p-5 text-center">
+<article class="pt-20">
+    <h2 class="font-bold text-3xl p-5 mt-5 text-center">
         Blog
     </h2>
     <div *ngFor="let post of blogPosts$ | async">
-        <div class="max-w-xl mb-5 mx-auto overflow-hidden bg-white shadow-md dark:bg-gray-800">
-
+        <div class="max-w-xl mb-10 mx-auto overflow-hidden bg-white hover:bg-gray-100 border">
+            <a class="group" href="/view?id={{ post._id }}">
             <div class="p-6">
                 <div>
-                    <!--
-                    <ng-container *ngFor="let category of blogPosts.categories$ | async">
-                        <span class="text-xs ml-3 font-medium text-blue-600 uppercase dark:text-blue-400">
-                            {{ category }}
-                        </span>
-                    </ng-container>
-                    -->
-                    <a href="/view?id={{ post._id }}" class="block mt-2 text-2xl font-semibold text-gray-800 transition-colors duration-200 transform dark:text-white hover:text-gray-600 hover:underline">
+                    <span class="group block mt-2 text-2xl font-semibold text-gray-800 transition-colors duration-200 transform group-hover:text-gray-600 group-hover:underline">
                         {{ post.title }}
-                    </a>
-                    <!--
-                    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
-                        {{ post.body }}
-                    </p>
-                    -->
+                    </span>
                 </div>
 
                 <div class="mt-4">
@@ -38,6 +26,7 @@
                     </div>
                 </div>
             </div>
+            </a>
         </div>
     </div>
-</div>
+</article>

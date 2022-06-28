@@ -18,7 +18,7 @@ import { provideFirestore,getFirestore } from '@angular/fire/firestore';
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
-import {MatPaginatorModule} from '@angular/material/paginator';
+import { MatPaginatorModule } from '@angular/material/paginator';
 import { SanityImagePipe } from './sanity-image.pipe';
 import { FormatDatePipe } from './format-date.pipe';
 import { PostComponent } from './post/post.component';
