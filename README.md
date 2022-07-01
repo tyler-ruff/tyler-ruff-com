@@ -1,27 +1,30 @@
-# fire-angular
-The Fire bootstrap &amp; framework library for AngularJS.
+# Tyler Ruff's Portfolio
 
-## What's Included
-This package uses:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aab79398-3282-4561-82ca-e1c9b92b1648/deploy-status)](https://app.netlify.com/sites/tyler-ruff/deploys)
+
+Software developer, project manager, systems administrator.
+
+- [Visit Website](https://tyler-ruff.com/)
+
+## Learn More
+This website holds the ePortfolio of Tyler Ruff: Software developer, project manager, systems administrator.
+
+# Credits
+![Last Commit](https://img.shields.io/github/last-commit/tyler-ruff/tyler-ruff-com?style=for-the-badge "Last Commit")
+
+## Partners
+- [Sanity CMS](https://sanity.io/)
+- [Firebase](https://firebase.google.com/)
+
+## Development Team
+- Maintained by: [The Blazed Development Group](https://www.facebook.com/groups/blzdev)
+- Published by: [Blazed Publishing](https://blazed.xyz/)
+- Lead Developer, Project Management: [Tyler Ruff](https://github.com/tyler-ruff)
+- UX Testing, Project Advising: Star Dom
+- Design, Project Advising: [Matthew Ruff](https://github.com/matt-ruff)
+
+## Special Thanks
+- [Fire Angular](https://github.com/blazed-space/fire-angular)
 - [AngularJS](https://angular.io/)
 - [TailwindCSS](https://tailwindcss.com/)
-
-## Installing
-To install, run the following command at the root of the directory:
-```sh
-npm install
-```
-
-## Live Development Server
-To run a live dev server, first ensure you have NPM installed. Then, if you have not already, install the Angular CLI,
-
-```sh
-npm install -g @angular/cli
-```
-
-Once installed, you can run a simple development server with the following command:
-
-```sh
-ng serve
-```
-
+- [Netlify](https://netlify.com/)
