@@ -1,0 +1,19 @@
+
+<ul class="inline-block space-y-6 space-x-3 pb-6 pt-5 mt-10 tracking-wide font-medium text-gray-600 lg:pb-0 lg:pr-6 lg:items-center lg:flex lg:space-y-0">
+    <li *ngFor="let item of this.site.nav">
+        <span *ngIf="item.link !== undefined">
+            <a routerLink="{{ item.link}}" 
+                routerLinkActive="is-active"
+                class="inline-flex hover:text-gray-900 font-bold md:font-normal">
+                {{ item.text }}
+            </a>
+        </span>
+        <span *ngIf="item.href !== undefined">
+            <a href="{{ item.href}}" 
+                routerLinkActive="is-active"
+                class="inline-flex hover:text-gray-900 font-bold md:font-normal">
+                {{ item.text }}
+            </a>
+        </span>
+    </li>
+</ul>

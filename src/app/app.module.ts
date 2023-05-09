@@ -1,29 +1,43 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
-import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
-import { environment } from '../environments/environment';
-import { NavComponent } from './nav/nav.component';
-import { HeaderComponent } from './header/header.component';
-import { FooterComponent } from './footer/footer.component';
-import { LazyLoadDirective } from './lazyload.directive';
-import { ProjectsComponent } from './projects/projects.component';
-import { BlogComponent } from './blog/blog.component';
-import { AboutComponent } from './about/about.component';
-import { initializeApp,provideFirebaseApp } from '@angular/fire/app';
-import { provideFirestore,getFirestore } from '@angular/fire/firestore';
-
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { MatPaginatorModule } from '@angular/material/paginator';
-import { SanityImagePipe } from './sanity-image.pipe';
-import { FormatDatePipe } from './format-date.pipe';
-import { PostComponent } from './post/post.component';
-import { SingleComponent } from './single/single.component';
-import { ToHTMLPipe } from './to-html.pipe';
+import { environment } from '../environments/environment';
+
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+
+// Services
+import { AppService } from './shared/app.service';
+
+// Pages
+import { SingleComponent } from './pages/single/single.component';
+import { BlogComponent } from './pages/blog/blog.component';
+import { AboutComponent } from './pages/about/about.component';
+import { ProjectsComponent } from './pages/projects/projects.component';
+
+// Components
+import { LayoutComponent } from './components/layout/layout.component';
+import { NavComponent } from './components/nav/nav.component';
+import { HeaderComponent } from './components/header/header.component';
+import { FooterComponent } from './components/footer/footer.component';
+
+// Widgets
+import { PostComponent } from './widgets/post/post.component';
+
+// Utilities
+import { LazyLoadDirective } from './utils/lazyload.directive';
+import { PhoneFormatPipe } from './utils/format-phone.pipe';
+import { RelativeTimePipe } from './utils/relative-time.pipe';
+import { SanityImagePipe } from './utils/sanity-image.pipe';
+import { FormatDatePipe } from './utils/format-date.pipe';
+import { ToHTMLPipe } from './utils/to-html.pipe';
+
+import { initializeApp,provideFirebaseApp } from '@angular/fire/app';
+import { provideFirestore,getFirestore } from '@angular/fire/firestore';
 
 @NgModule({
   declarations: [
@@ -39,7 +53,10 @@ import { ToHTMLPipe } from './to-html.pipe';
     FormatDatePipe,
     ToHTMLPipe,
     PostComponent,
-    SingleComponent
+    SingleComponent,
+    LayoutComponent,
+    PhoneFormatPipe,
+    RelativeTimePipe
   ],
   imports: [
     BrowserModule,
@@ -56,7 +73,9 @@ import { ToHTMLPipe } from './to-html.pipe';
     provideFirestore(() => getFirestore()),
     BrowserAnimationsModule
   ],
-  providers: [],
+  providers: [
+    AppService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
