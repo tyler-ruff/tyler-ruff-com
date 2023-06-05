@@ -1,0 +1,53 @@
+theme = "showfolio"
+languageCode = "en-us"
+baseurl = "https://tyler-ruff.com"
+title = "Tyler Ruff"
+
+
+[params]
+  name = "Tyler Ruff"
+  description = "Personal website of Tyler Ruff."
+  author = "Tyler Ruff"
+  authorEmail = "tyler.ruff@outlook.com"
+  authorImage = "/photo.png"
+  autoDarkMode = false
+
+  copyright = "Copyright ©2023 - Tyler Ruff · All rights reserved"
+  favicon = "favicon.ico"
+
+[params.homepage]
+  title = "Welcome to the site of Tyler Ruff"
+  tagline = "Software Architect"
+  description = "I'm a software developer, entrepreneur, and project manager."
+  contact = "https://blazed.contact/"
+
+[params.homepage.codepen]
+  username = "tyler-ruff"
+  pens = ["RwqbjKp"]
+
+[params.homepage.resume]
+  skills = ["Software Development", "Product Development", "Software Engineering", "Systems Design"]
+
+[[params.homepage.resume.work]]
+  name = "Blazed Labs LLC"
+  role = "Lead Software Architect"
+  duration = "Jan 2020 - "
+
+[[params.homepage.resume.courses]]
+  name = "CCNA Certfication"
+  provider = "Cisco"
+  duration = "Jan 2019"
+
+[params.homepage.social]
+  twitter = "https://twitter.com/TylerRuffDev"
+  linkedin = "https://www.linkedin.com/in/blz-one/"
+  github = "https://github.com/tyler-ruff"
+  medium = "https://medium.com/@blazed-labs"
+
+[build]
+  writeStats = true
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
