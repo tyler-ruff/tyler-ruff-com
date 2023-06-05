@@ -19,3 +19,26 @@ My first company I started was [Blazed Labs LLC](https://blazedlabs.com/), I sta
 
 ### Ruff Management
 [Ruff Management inc.](https://ruff-manage.com/) is a producer of cloud systems and equity management firm.
+
+## Platforms
+We've come to market with a variety of platforms on the web.
+
+### Beez Marketing
+[Check it out](https://beez.top) - Marketing services and advertising brokerage.
+
+### Blazed Space
+[Check it out](https://blazed.space) - Social network platform.
+
+### Blazed City
+[Check it out](https://blazed.city) - Amazing community of Blazed contributors and stakeholders.
+
+### Blazed One
+[Check it out](https://blz.one) - Integration solution for Blazed websites.
+
+## Contact Me
+You can reach me easily through email:
+* [hello@blazed.space](mailto:hello@blazed.space)
+* [tyler.ruff@outlook.com](mailto:tyler.ruff@outlook.com)
+
+If you wish, you may also fill out an online form:
+* [Contact](https://blazed.contact/)
