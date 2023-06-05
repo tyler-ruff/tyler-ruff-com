@@ -1,70 +1,57 @@
-[![Content Wind](https://content-wind.nuxt.space/cover.jpg)](https://content-wind.nuxt.space)
+# tyler-ruff.com
+The main website of Tyler Ruff.
 
-# Content Wind
+## Table of Contents
+1. [tyler-ruff.com](#tyler-ruffcom)
+   1. [Table of Contents](#table-of-contents)
+   2. [Getting Started](#getting-started)
+   3. [Contributing](#contributing)
+   4. [License](#license)
+   5. [Acknowledgement](#acknowledgement)
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![License][license-src]][license-href]
-[![Nuxt][nuxt-src]][nuxt-href]
-[![Nuxt Studio][nuxt-studio-src]][nuxt-studio-href]
-[![Volta][volta-src]][volta-href]
-
-A personal website theme powered by [Nuxt Content](https://content.nuxtjs.org), [TailwindCSS](https://tailwindcss.com), [Iconify](https://iconify.design) and [Vue components](https://vuejs.org).
-
-- 📖&nbsp; [Demo & Docs](https://content-wind.nuxt.space)
-- 🕹&nbsp; [Play online](https://githubblitz.com/Atinux/content-wind/tree/main/.demo)
-- 👀&nbsp; [Demo video](https://twitter.com/Atinux/status/1578505586979012608)
-
-## Features
-
-- Create pages in Markdown in the `content/` directory
-- Use [Nuxt layouts](https://nuxt.com/docs/guide/directory-structure/layouts) in your Markdown pages
-- Enjoy meta tag generation from Markdown files
-- Configurable prose components with [Nuxt Typography](https://typography.nuxt.space)
-- Generated navigation based on your pages
-- Switch between Light & Dark mode :moon:
-- Access 100,000 icons from 100+ icon sets with the `<Icon>` component
-- Highlight code blocks with [Shiki](https://shiki.matsu.io)
-- Create Vue components and use them in Markdown
-- Deploy on any Node or Static hosting: GH Pages, Vercel, Netlify, Heroku, etc.
-- Live edit on [Nuxt Studio](https://nuxt.studio)
-
-## Get started
-
-### Local
-
-```bash
-npx nuxi@latest init -t themes/content-wind my-website
+## Getting Started
+To run a developer sever, ensure you've cloned the repository and run:
+```shell
+npx docusaurus start
 ```
+You should have a dev server running on [localhost:3000](http://localhost:3000/)
 
-Then follow the instructions and you are ready to go :rocket:
+## Contributing
+* Noticed a bug? Want to add a feature or post? Follow the steps below!
 
-### Online
+1. [Fork this repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) on your local machine.
+2. Create desired changes, commit & push changes to local forked repo.
+3. When desired changes have been applied (and it has been tested locally), submit a pull request to the dev branch of this repo.
+4. When your pull request has been reviewed, you will recieve feedback on a final decision.
 
-Get started online on https://nuxt.studio/themes/content-wind
+* Note: These contributing instructions may differ from those of Blazed Development Group managed projects.
 
-## License 📎
 
-[MIT License](./LICENSE)
+## License
 
-<!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/content-wind/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-version-href]: https://npmjs.com/package/content-wind
+MIT License
 
-[npm-downloads-src]: https://img.shields.io/npm/dt/content-wind.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-downloads-href]: https://npmjs.com/package/content-wind
+Copyright (c) 2023 Tyler Ruff
 
-[license-src]: https://img.shields.io/github/license/Atinux/content-wind.svg?style=flat&colorA=18181B&colorB=28CF8D
-[license-href]: https://github.com/Atinux/content-wind/blob/main/LICENSE
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-[use-template-src]: https://img.shields.io/badge/⚡️-Use%20this%20template-28CF8D?style=flat&colorA=18181B&colorB=28CF8D
-[use-template-href]: https://github.com/Atinux/content-wind-template/generate
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-[nuxt-studio-src]: https://img.shields.io/badge/Open%20in%20Nuxt%20Studio-18181B?&logo=nuxt.js&logoColor=3BB5EC
-[nuxt-studio-href]: https://nuxt.studio/templates/content-wind
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-[nuxt-src]: https://img.shields.io/badge/Nuxt-18181B?&logo=nuxt.js
-[nuxt-href]: https://nuxt.com
-
-[volta-src]: https://user-images.githubusercontent.com/904724/209143798-32345f6c-3cf8-4e06-9659-f4ace4a6acde.svg
-[volta-href]: https://volta.net/Atinux/content-wind?utm_source=readme_atinux_content_wind
+## Acknowledgement
+* This site is made with [Docusaurus](https://docusaurus.io/).
+* Lead Software Architect: [Tyler Ruff](https://tyler-ruff.com/)
+* This site may contain copy written by [ChatGPT](https://openai.com/blog/chatgpt).
