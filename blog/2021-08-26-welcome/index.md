@@ -1,25 +1,14 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [truff, blazed]
+tags: [blazed, hello, tyler, ruff]
+date: 2023-07-27T04:20
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Welcome to the personal blog of Tyler Ruff.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+I am always working on different projects, so I will try to keep you updated through this blog.
 
-Regular blog authors can be added to `authors.yml`.
+You can also follow my work on [Github](https://github.com/tyler-ruff), where I am most active.
 
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
