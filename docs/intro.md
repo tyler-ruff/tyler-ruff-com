@@ -32,8 +32,7 @@ We've come to market with a variety of platforms on the web:
 
 ## Contact Me
 You can reach me easily through email:
-* [hello@blazed.space](mailto:hello@blazed.space)
-* [tyler.ruff@outlook.com](mailto:tyler.ruff@outlook.com)
+* [truff@blazed.work](mailto:truff@blazed.work)
 
 If you wish, you may also fill out an online form:
 * [Contact](https://blazed.contact/)
