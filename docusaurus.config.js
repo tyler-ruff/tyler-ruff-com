@@ -82,6 +82,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://twitter.com/TylerRuffDev',
+            label: 'Twitter',
+            position: 'right',
+          },
         ],
       },
       footer: {
