@@ -16,8 +16,8 @@ My first company I started was [Blazed Labs LLC](https://blazedlabs.com/), I fou
 We create websites, software, publications, and other experiences.
 
 **Blazed has three principle service offerings:**
-* [Systems Design & Engineering](https://blazed.systems/)
-* [Telecommunications](https://blazed.tel/)
+* [Systems Design & Engineering](https://blazed.space/)
+* [Software & Web Development](https://blazed.dev/)
 * [Publishing](https://blazed.xyz/)
 
 ### Ruff Management
@@ -30,10 +30,7 @@ for many dry goods and electronics.
 ## Platforms
 We've come to market with a variety of platforms on the web:
 
-* [Beez Marketing](https://beez.top) - Marketing services and advertising brokerage.
 * [Blazed City](https://blazed.city) - Amazing community of Blazed contributors and stakeholders.
-* [Blazed Quest](https://blazed.quest/) - Project Management solution.
-* [Blazed Dev](https://blazed.dev/) - Dev-Ops solutions.
 * [Blazed One](https://blz.one) - Integration solution for Blazed websites.
 
 ## Proficient Technologies
@@ -53,4 +50,4 @@ You can reach me easily through email:
 * [truff@blazed.work](mailto:truff@blazed.work)
 
 If you wish, you may also fill out an online form:
-* [Contact](https://blazed.contact/)
+* [Contact](https://blazedlabs.com/contact)
