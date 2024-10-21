@@ -32,11 +32,14 @@ We've come to market with a variety of platforms on the web:
 
 * [Blazed City](https://blazed.city) - Amazing community of Blazed contributors and stakeholders.
 * [Blazed One](https://blz.one) - Integration solution for Blazed websites.
+* [Blazed Development](https://blazed.dev) - Software development solutions.
+* [Blazed Space](https://blazed.space) - User experience platform for Blazed Labs.
+* [Blazed Publishing](https://blazed.xyz) - Publishing platform for Blazed Labs.
 
 ## Proficient Technologies
 * Cisco and IOS (Formerly CCNA certified circa 2020)
-* Microsoft Azure and Office 365 (Recently setup for my business, a big fan)
-* Google Workspace, Cloud, and Firebase (Loyal customer since our founding in 2020)
+* Microsoft Azure and Office 365
+* Google Workspace, Cloud, and Firebase
 * Audio Video Editing, Publishing, Production
 * React/Next, Vue/Nuxt, Angular
 * Windows 11 and Windows Server 2019/2022
@@ -48,6 +51,9 @@ We've come to market with a variety of platforms on the web:
 ## Contact Me
 You can reach me easily through email:
 * [truff@blazed.work](mailto:truff@blazed.work)
+
+Or you can contact me via phone, my office number is:
+* [1 (609) 205-5792](tel:+16092055792)
 
 If you wish, you may also fill out an online form:
 * [Contact](https://blazedlabs.com/contact)
