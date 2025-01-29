@@ -14,13 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## My name is Tyler Ruff, I am a Software Developer, Business Owner,
+      Designer, and Marketer. I am the founder of [Blazed Labs](https://blazedlabs.com).
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/tyler-2015.png
       altText: Hero image
     styles:
       self:
