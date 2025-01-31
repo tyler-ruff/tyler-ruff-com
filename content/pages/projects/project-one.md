@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
-title: Blazed Labs Company and Websites
-colors: colors-a
+title: Blazed Labs
+colors: colors-b
 date: '2020-01-20'
 client: Blazed Labs LLC
 description: >-

@@ -6,12 +6,40 @@
 
 @layer base {
     ::selection{
-        background: rgba(255,255,255,0.6);
+        background: rgba(255, 252, 56,0.5);
         color: rgba(0, 0, 0, 0.8);
     }
     ::-moz-selection{
-        background: rgba(255,255,255,0.6);
+        background: rgba(255, 252, 56,0.5);
         color: rgba(0, 0, 0, 0.8);
+    }
+    
+    body {
+        --sb-track-color: #232E33;
+        --sb-thumb-color: #962c7a;
+        --sb-size: 6px;
+    }
+    
+    body::-webkit-scrollbar {
+        width: var(--sb-size);
+    }
+    
+    body::-webkit-scrollbar-track {
+        background: var(--sb-track-color);
+        border-radius: 12px;
+    }
+    
+    body::-webkit-scrollbar-thumb {
+        background: var(--sb-thumb-color);
+        border-radius: 12px;
+        
+    }
+    
+    @supports not selector(::-webkit-scrollbar) {
+        body {
+        scrollbar-color: var(--sb-thumb-color)
+                        var(--sb-track-color);
+        }
     }
     body {
         @apply flex flex-col min-h-screen antialiased;

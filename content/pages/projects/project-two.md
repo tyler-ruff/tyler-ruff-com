@@ -1,11 +1,11 @@
 ---
 type: ProjectLayout
-title: RTM Transit & Ocean Car Service
-colors: colors-a
+title: RTM Transit
+colors: colors-e
 date: '2017-06-20'
 client: RTM Transportation LLC
 description: >-
-  The Ocean Car Service & RTM Transit website project showcases a seamless blend of modern web design and robust functionality, providing a digital hub for two critical transportation services based in Ocean City, New Jersey.
+  The Ocean Car Service & RTM Transit website project showcases a seamless blend of modern web design and robust functionality, providing a digital hub for two critical transportation services based in Ocean City, NJ.
 featuredImage:
   type: ImageBlock
   url: /images/ocs-promo.png
