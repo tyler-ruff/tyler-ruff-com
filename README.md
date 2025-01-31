@@ -1,4 +1,4 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
+# tyler-ruff.com
 
 ![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
 

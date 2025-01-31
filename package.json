@@ -1,6 +1,6 @@
 {
-    "name": "personal-site",
-    "version": "0.2.0",
+    "name": "tyler-ruff-com",
+    "version": "0.2.1",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
