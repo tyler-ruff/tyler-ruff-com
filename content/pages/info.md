@@ -183,7 +183,7 @@ sections:
     colors: colors-f
     text: |
       - [truff@blazed.work](mailto:truff@blazed.work)
-      - [(609) 205-5792](tel:+16092055792)
+      - [(609) 778-8424](tel:+16097788424)
   - type: DividerSection
     styles:
       self:
