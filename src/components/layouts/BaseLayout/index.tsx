@@ -19,12 +19,26 @@ const BaseLayout: React.FC<BaseLayoutProps> = (props) => {
     const title = seoGenerateTitle(page, site);
     const metaTags = seoGenerateMetaTags(page, site);
     const metaDescription = seoGenerateMetaDescription(page, site);
+
+    const siteSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'Person',
+        "name": "Tyler Ruff",
+        "jobTitle": "Engineer",
+        "telephone": "(609) 778-8424",
+        "url": "https://tyler-ruff.com"
+    };
+
     return (
         <Annotated content={page}>
             <div className={classNames('sb-page', page?.colors || 'colors-a')}>
                 {page?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
                 <div className="sb-base sb-default-base-layout relative">
                     <Head>
+                        <script
+                            type="application/ld+json"
+                            dangerouslySetInnerHTML={{ __html: JSON.stringify(siteSchema) }}
+                        />
                         <title>{title}</title>
                         {metaDescription && <meta name="description" content={metaDescription} />}
                         {metaTags.map((metaTag) => {
