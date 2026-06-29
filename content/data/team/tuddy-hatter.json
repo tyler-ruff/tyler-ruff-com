@@ -1,0 +1,10 @@
+{
+    "type": "Person",
+    "firstName": "Tuddy",
+    "lastName": "the Hatter",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/hatter.jpg",
+        "altText": "Tuddy the Hatter photo"
+    }
+}

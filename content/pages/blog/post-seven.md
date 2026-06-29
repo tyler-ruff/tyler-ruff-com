@@ -2,10 +2,10 @@
 type: PostLayout
 title: Vercel, Netlify, CI/CD Web Development and the State of Web Hosting in 2026
 colors: colors-a
-date: '2024-06-10'
-author: content/data/team/doris-soto.json
+date: '2026-06-19'
+author: content/data/team/tyler-ruff.json
 excerpt: >-
-  More context that may or may not be helpful
+  A decade ago, deploying a website often meant renting a VPS, configuring NGINX, manually uploading files through FTP, and hoping nothing broke during a late-night deployment. Fast forward to 2026, and the landscape has changed dramatically.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg

@@ -1,11 +1,11 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: Computer Networking, Wi-Fi, and the State of the Industry in 2026
 colors: colors-a
-date: '2024-02-01'
-author: content/data/team/doris-soto.json
+date: '2026-06-29'
+author: content/data/team/tyler-ruff.json
 excerpt: >-
-  More context that may or may not be helpful
+  Networking has always been the invisible foundation of modern technology.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -104,32 +104,358 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## Introduction
 
-## Heading 2
+Networking has always been the invisible foundation of modern technology.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Every website, cloud service, video call, financial transaction, and smart device ultimately depends on networks functioning reliably behind the scenes. Yet despite its importance, networking often remains one of the least visible disciplines in information technology.
 
-### Heading 3
+In 2026, computer networking finds itself in the middle of another major transformation. Cloud computing, remote work, edge infrastructure, artificial intelligence, and the explosion of connected devices have fundamentally changed how networks are designed, deployed, and managed.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+At the same time, wireless technologies have evolved dramatically. Wi-Fi has become faster, more intelligent, and more capable than ever before, while businesses increasingly expect seamless connectivity everywhere.
 
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-screen-md mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
+The state of networking in 2026 is defined by one word:
+
+**Convergence.**
+
+Networks are no longer just about connecting computers.
+
+They're about connecting everything.
+
+---
+
+# The Evolution of Computer Networking
+
+Networking has come a long way from:
+
+* Dial-up connections
+* Hub-based Ethernet
+* Consumer-grade wireless routers
+* Single-location office networks
+
+Modern networks now support:
+
+* Hybrid workforces
+* Cloud applications
+* Video conferencing
+* Industrial automation
+* Internet of Things (IoT)
+* Artificial intelligence workloads
+* Global collaboration
+
+The modern network is expected to be:
+
+* Fast
+* Secure
+* Redundant
+* Scalable
+* Highly available
+* Cloud integrated
+
+These requirements have fundamentally changed the role of the network engineer.
+
+---
+
+# Wi-Fi Has Become Mission Critical
+
+There was a time when wireless networking was considered a convenience.
+
+That time is long gone.
+
+Today, Wi-Fi is often the primary network infrastructure for:
+
+* Offices
+* Schools
+* Warehouses
+* Hospitals
+* Retail stores
+* Manufacturing facilities
+* Homes
+
+Employees increasingly expect to move between locations and devices without interruption.
+
+As a result, wireless networking has become one of the most important components of modern infrastructure.
+
+---
+
+# The Rise of Wi-Fi 6 and Wi-Fi 7
+
+Wireless technology has advanced significantly in recent years.
+
+Modern standards have introduced:
+
+* Higher throughput
+* Lower latency
+* Better device density
+* Improved power efficiency
+* Reduced interference
+
+The goal is no longer simply faster internet speeds.
+
+The goal is handling hundreds—or even thousands—of simultaneously connected devices efficiently.
+
+This is especially important as organizations deploy:
+
+* Smartphones
+* Laptops
+* Tablets
+* Security cameras
+* Sensors
+* Smart building systems
+* Industrial devices
+
+Wireless networks are now expected to perform at enterprise levels under extremely demanding conditions.
+
+---
+
+# The Explosion of Connected Devices
+
+The average network today supports significantly more devices than it did even a few years ago.
+
+A modern office may include:
+
+* Workstations
+* Mobile devices
+* Printers
+* VoIP phones
+* Smart TVs
+* Conference systems
+* Cameras
+* Access control systems
+* Environmental sensors
+
+A home network might include dozens of devices.
+
+An enterprise network might include tens of thousands.
+
+This explosion in connected devices has fundamentally changed network design.
+
+Capacity planning is more important than ever.
+
+---
+
+# The Cloud Changed Everything
+
+Perhaps no technology has reshaped networking more than cloud computing.
+
+Applications that once lived inside a local server room now reside in:
+
+* Public clouds
+* Hybrid clouds
+* Software-as-a-Service platforms
+* Edge environments
+
+As a result, network traffic patterns have changed dramatically.
+
+Years ago, traffic largely stayed inside the building.
+
+Today, most traffic flows:
+
+```text
+User → Internet → Cloud Service
 ```
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+This shift has led organizations to rethink:
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+* Security models
+* WAN design
+* Internet connectivity
+* Redundancy planning
+* Network monitoring
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+The traditional network perimeter has effectively disappeared.
+
+---
+
+# Software-Defined Networking
+
+Networking has increasingly become software driven.
+
+Modern environments rely on:
+
+* Centralized management
+* Network automation
+* Policy-based configuration
+* Programmable infrastructure
+
+Software-defined networking (SDN) allows administrators to:
+
+* Deploy changes quickly
+* Reduce configuration errors
+* Improve visibility
+* Scale infrastructure more efficiently
+
+The days of manually configuring every switch and router are gradually fading.
+
+Automation is becoming a requirement rather than a luxury.
+
+---
+
+# Network Security Has Become Inseparable From Networking
+
+The modern network is under constant attack.
+
+Threats now include:
+
+* Ransomware
+* Credential theft
+* Phishing
+* Distributed denial-of-service attacks
+* Unauthorized devices
+* Supply chain attacks
+
+Because of this, networking and cybersecurity have become deeply intertwined.
+
+Modern networks increasingly employ:
+
+* Network segmentation
+* Zero Trust principles
+* Multi-factor authentication
+* Identity-aware access controls
+* Continuous monitoring
+* Intrusion detection
+
+The role of the network engineer increasingly overlaps with the role of the security engineer.
+
+---
+
+# Remote Work Redefined Connectivity
+
+The shift toward hybrid and remote work fundamentally changed networking requirements.
+
+Employees now expect secure access from:
+
+* Home offices
+* Hotels
+* Airports
+* Client sites
+* Mobile networks
+
+Organizations have had to adapt by deploying:
+
+* VPN technologies
+* Cloud identity providers
+* Secure remote access solutions
+* Software-defined WAN solutions
+
+The office network is no longer confined to a building.
+
+It exists wherever employees work.
+
+---
+
+# Artificial Intelligence Is Entering Networking
+
+Artificial intelligence is beginning to transform network operations.
+
+Modern platforms can now:
+
+* Detect anomalies
+* Predict failures
+* Optimize wireless performance
+* Identify security threats
+* Automate troubleshooting
+* Analyze traffic patterns
+
+As networks become increasingly complex, automation and intelligence are becoming essential tools.
+
+The future network administrator may spend less time troubleshooting and more time designing policies and architecture.
+
+---
+
+# The Return of the Home Lab
+
+Interestingly, networking has experienced a resurgence among enthusiasts and professionals alike.
+
+Home laboratories have become increasingly popular for:
+
+* Learning enterprise technologies
+* Testing infrastructure
+* Running virtualization platforms
+* Self-hosting services
+* Experimenting with automation
+
+Affordable hardware and virtualization technologies have made enterprise-level experimentation accessible to nearly anyone.
+
+For many engineers, the home lab has become an invaluable learning environment.
+
+---
+
+# The State of Networking in 2026
+
+The networking industry can be summarized as follows:
+
+| Technology                  | Status            |
+| --------------------------- | ----------------- |
+| Gigabit Ethernet            | Standard          |
+| Multi-Gig Networking        | Growing           |
+| Wi-Fi 6                     | Mainstream        |
+| Wi-Fi 7                     | Rapid Adoption    |
+| Software-Defined Networking | Increasing        |
+| Cloud Networking            | Essential         |
+| Network Automation          | Expanding         |
+| AI-Assisted Operations      | Emerging          |
+| Zero Trust Networking       | Industry Standard |
+
+Networking is becoming faster, more intelligent, and increasingly software-defined.
+
+---
+
+# The Skills That Matter Most
+
+The modern networking professional needs a broader skill set than ever before.
+
+Important disciplines now include:
+
+* Routing and switching
+* Wireless networking
+* Cloud networking
+* Cybersecurity
+* Automation
+* Scripting
+* Virtualization
+* Linux administration
+
+The network engineer of 2026 is increasingly a systems engineer.
+
+Understanding how technologies interact across disciplines has become incredibly valuable.
+
+---
+
+# What Comes Next?
+
+The future of networking will likely be shaped by:
+
+* AI-driven operations
+* Self-healing infrastructure
+* Edge computing
+* Greater automation
+* Intent-based networking
+* Higher-density wireless deployments
+* Smarter security models
+
+The networks of tomorrow will be increasingly autonomous and adaptive.
+
+Yet the fundamental goal remains the same:
+
+Move information quickly, reliably, and securely.
+
+---
+
+# Final Thoughts
+
+Computer networking remains one of the most foundational disciplines in technology.
+
+Every cloud platform, every web application, every communication system, and every connected device ultimately depends on reliable networks.
+
+In 2026, networking is no longer simply about cables and routers.
+
+It's about enabling people, businesses, and technologies to communicate seamlessly across the globe.
+
+Wi-Fi has become mission critical. Cloud networking has redefined infrastructure. Security and networking have become inseparable. Automation and artificial intelligence are beginning to reshape how networks are operated and maintained.
+
+Despite all the changes, one thing remains true:
+
+The world runs on networks.
+
+And as our dependence on technology continues to grow, the importance of building fast, secure, and resilient networks has never been greater.

@@ -1,0 +1,10 @@
+{
+    "type": "Person",
+    "firstName": "Tyler",
+    "lastName": "Ruff",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/tyler-2015.jpg",
+        "altText": "Tyler Ruff edited photo. Circa 2014."
+    }
+}
