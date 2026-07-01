@@ -1,19 +1,19 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: How Blazed Labs Turns Dreams into Reality
 colors: colors-a
-date: '2021-06-28'
-author: content/data/team/doris-soto.json
+date: '2026-01-15'
+author: content/data/team/tyler-ruff.json
 excerpt: >-
-  More context that may or may not be helpful
+  Blazed Labs is a research and development firm founded by Tyler Ruff in 2020.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
+  url: /images/blazed-arena.png
+  altText: Blazed Arena
+  caption: Discover Blazed Labs
   elementId: ''
   type: ImageBlock
 bottomSections:
@@ -110,18 +110,268 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Every great company begins with an idea.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Sometimes it's a business that hasn't been built yet. Sometimes it's a piece of software that doesn't exist. Sometimes it's a book, a website, a new technology, or simply a vision of what could be.
 
-## About Coding
+The challenge has never been coming up with ideas.
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+The challenge has always been turning those ideas into reality.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+That's why I founded **Blazed Labs LLC** in 2020.
 
-## Productivity
+---
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+# The Beginning of Blazed Labs
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Blazed Labs was founded on a simple belief:
+
+> Technology should empower people to create, build, and share their ideas with the world.
+
+From the beginning, the company was designed to be more than a traditional technology business. It was envisioned as a research and development firm capable of helping organizations and individuals move from concept to execution.
+
+Over the years, Blazed Labs has grown into a multidisciplinary company with expertise spanning multiple industries and technologies.
+
+Our mission remains the same today as it was in 2020:
+
+**Take ideas that exist only on paper and transform them into real, functioning solutions.**
+
+---
+
+# More Than a Software Company
+
+At its core, Blazed Labs is an engineering and creative company.
+
+Our work spans several major disciplines:
+
+## Computer Programming
+
+Software is often where an idea becomes tangible.
+
+From custom web applications and business systems to cloud platforms and automation tools, we design and develop software that solves real-world problems.
+
+Our development philosophy emphasizes:
+
+* Scalability
+* Reliability
+* Performance
+* Simplicity
+* Long-term maintainability
+
+Technology should work for people—not the other way around.
+
+---
+
+## Servers and Computer Systems
+
+Modern businesses depend on reliable infrastructure.
+
+Whether it's deploying cloud applications, building private server environments, designing virtualization platforms, or architecting high-availability systems, infrastructure forms the backbone of digital innovation.
+
+At Blazed Labs, we believe that great software deserves great infrastructure.
+
+Because even the best ideas require a strong foundation.
+
+---
+
+## Networking and Telephony
+
+Communication powers every organization.
+
+Our experience in networking and telecommunications enables us to design systems that connect people, devices, and businesses.
+
+This includes:
+
+* Enterprise networking
+* Wireless infrastructure
+* VoIP systems
+* Telephony solutions
+* Hybrid communications platforms
+* Secure connectivity solutions
+
+Technology is at its best when it brings people together.
+
+---
+
+## Marketing and Digital Design
+
+Building something incredible is only part of the equation.
+
+People need to see it, understand it, and connect with it.
+
+Through digital design and marketing, we help transform ideas into brands and brands into experiences.
+
+This includes:
+
+* Website design
+* User experience design
+* Brand identity
+* Digital marketing
+* Content strategy
+* Visual storytelling
+
+Great technology and great design go hand in hand.
+
+---
+
+## Publishing
+
+One of the most unique aspects of Blazed Labs is our commitment to publishing.
+
+Ideas deserve to be shared.
+
+Through our publishing initiatives, we help authors, creators, and organizations bring their stories to life through both digital and physical media.
+
+Publishing is, in many ways, the final step in innovation:
+
+Turning knowledge and creativity into something that can inspire others.
+
+---
+
+# The Blazed One Solution
+
+![Another Dream turned into Reality](/images/blazed-banner-sm.png)
+
+As the company evolved, one concept became increasingly clear:
+
+Most ideas don't fail because they lack potential.
+
+They fail because the process of turning an idea into reality is fragmented.
+
+A business might need:
+
+* Branding
+* Software development
+* Infrastructure
+* Marketing
+* Publishing
+
+Traditionally, these services require multiple vendors, multiple teams, and multiple workflows.
+
+Blazed Labs set out to simplify that process.
+
+The result was the **Blazed One Solution**:
+
+# Design. Develop. Publish.
+
+These three words represent our philosophy and our process.
+
+## Design.
+
+[blazed.space](https://blazed.space/)
+
+Every great idea begins with planning, creativity, and vision.
+
+We help shape concepts into clear, actionable strategies.
+
+## Develop.
+
+[blazed.dev](https://blazed.dev/)
+
+Ideas become reality through engineering, technology, and execution.
+
+This is where concepts transform into products, systems, and experiences.
+
+## Publish.
+
+[blazed.xyz](https://blazed.xyz/)
+
+Once something has been created, it deserves to be shared with the world.
+
+Publishing means launching, marketing, distributing, and making ideas accessible.
+
+Together, these three principles form a complete innovation pipeline.
+
+---
+
+# Research and Development at Our Core
+
+Blazed Labs was founded as a research and development firm for a reason.
+
+Innovation doesn't happen by accident.
+
+It requires:
+
+* Curiosity
+* Experimentation
+* Continuous learning
+* Engineering discipline
+* Creative thinking
+
+Technology changes rapidly, and our commitment to research allows us to stay at the forefront of emerging technologies and industry trends.
+
+We are constantly exploring new ideas, testing new solutions, and building new possibilities.
+
+Because the future belongs to those willing to create it.
+
+---
+
+# Turning Dreams Into Reality
+
+Every application begins as an idea.
+
+Every company begins as a vision.
+
+Every book begins as a blank page.
+
+Every innovation begins with someone asking:
+
+**"What if?"**
+
+At Blazed Labs, we exist to answer that question.
+
+We believe that ideas deserve the opportunity to become something real.
+
+A website.
+
+A platform.
+
+A business.
+
+A product.
+
+A brand.
+
+A published work.
+
+*A dream realized.*
+
+---
+
+# Looking Toward the Future
+
+As technology continues to evolve, our mission remains unchanged.
+
+Blazed Labs will continue to:
+
+* Research emerging technologies.
+* Build innovative solutions.
+* Empower creators and businesses.
+* Bridge the gap between ideas and execution.
+* Turn concepts into reality.
+
+Because at the end of the day, that's what we do.
+
+We take ideas that exist only in someone's imagination and help bring them into the world.
+
+---
+
+# Final Thoughts
+
+Blazed Labs was founded in 2020 with a simple vision:
+
+**Create, innovate, and build things that matter.**
+
+Today, that vision continues to guide everything we do.
+
+Through software, infrastructure, communications technology, design, marketing, and publishing, we help people and organizations transform ideas into reality.
+
+Because every great innovation starts with a dream.
+
+And every dream deserves the chance to become something extraordinary.
+
+**Blazed Labs LLC**
+
+### Design. Develop. Publish.
+
+[Learn more](https://blazedlabs.com/about) about Blazed Labs.
